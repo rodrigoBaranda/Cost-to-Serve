@@ -14,4 +14,6 @@ This repository contains a minimal [Reflex](https://github.com/reflex-dev/reflex
    ```
    The application will be available at `http://localhost:3000`.
 
-The app currently displays a simple "Hello, World!" page as a starting point for future development.
+The app now includes a minimal dashboard with mock KPIs and sample charts.
+Visit `/kpis` to see example metrics and `/charts` for simple line and bar
+charts that illustrate the art of the possible with Reflex.
