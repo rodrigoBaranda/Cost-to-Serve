@@ -14,6 +14,7 @@ This repository contains a minimal [Reflex](https://github.com/reflex-dev/reflex
    ```
    The application will be available at `http://localhost:3000`.
 
-The app now includes a minimal dashboard with mock KPIs and sample charts.
-Visit `/kpis` to see example metrics and `/charts` for simple line and bar
-charts that illustrate the art of the possible with Reflex.
+The app now includes a lightweight dashboard styled with Accenture-inspired
+purple. Use the navigation bar to jump between the home page, `/kpis` with mock
+metrics, and `/charts` showing example line and bar charts that illustrate the
+art of the possible with Reflex.
