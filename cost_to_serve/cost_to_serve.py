@@ -17,6 +17,7 @@ mock_bar_data = [
     {"warehouse": "C", "orders": 500},
 ]
 
+        width="100%",
 <<<<<<< t50cvf-codex/add-mock-up-kpis-and-charts
 # brand color inspired by Accenture's purple
 ACCENT_COLOR = "#A100FF"
