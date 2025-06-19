@@ -34,6 +34,7 @@ def navbar() -> rx.Component:
         rx.link("Home", href="/"),
         rx.link("KPIs", href="/kpis"),
         rx.link("Charts", href="/charts"),
+        width="100%",
         padding_x="4",
         padding_y="2",
         background_color=ACCENT_COLOR,
